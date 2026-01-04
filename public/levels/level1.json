@@ -1,0 +1,153 @@
+{
+  "name": "Level 1: Stereo Madness",
+  "length": 300,
+  "background": "bg_grad",
+  "music": "stereo_madness",
+  "data": [
+    {
+      "x": 20,
+      "y": 1,
+      "type": "spike"
+    },
+    {
+      "x": 30,
+      "y": 1,
+      "type": "block"
+    },
+    {
+      "x": 31,
+      "y": 1,
+      "type": "block"
+    },
+    {
+      "x": 32,
+      "y": 1,
+      "type": "spike"
+    },
+    {
+      "x": 40,
+      "y": 1,
+      "type": "block"
+    },
+    {
+      "x": 40,
+      "y": 2,
+      "type": "block"
+    },
+    {
+      "x": 41,
+      "y": 2,
+      "type": "block"
+    },
+    {
+      "x": 42,
+      "y": 2,
+      "type": "block"
+    },
+    {
+      "x": 43,
+      "y": 2,
+      "type": "portal_ship"
+    },
+    {
+      "x": 48,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 49,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 50,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 51,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 52,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 55,
+      "y": 5,
+      "type": "block"
+    },
+    {
+      "x": 55,
+      "y": 4,
+      "type": "block"
+    },
+    {
+      "x": 60,
+      "y": 2,
+      "type": "block"
+    },
+    {
+      "x": 60,
+      "y": 8,
+      "type": "block"
+    },
+    {
+      "x": 65,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 66,
+      "y": 1,
+      "type": "ground_spike"
+    },
+    {
+      "x": 70,
+      "y": 4,
+      "type": "portal_cube"
+    },
+    {
+      "x": 75,
+      "y": 1,
+      "type": "block"
+    },
+    {
+      "x": 80,
+      "y": 1,
+      "type": "pad_jump"
+    },
+    {
+      "x": 84,
+      "y": 4,
+      "type": "platform"
+    },
+    {
+      "x": 86,
+      "y": 5,
+      "type": "platform"
+    },
+    {
+      "x": 88,
+      "y": 6,
+      "type": "platform"
+    },
+    {
+      "x": 95,
+      "y": 1,
+      "type": "spike"
+    },
+    {
+      "x": 96,
+      "y": 1,
+      "type": "spike"
+    },
+    {
+      "x": 97,
+      "y": 1,
+      "type": "spike"
+    }
+  ]
+}
